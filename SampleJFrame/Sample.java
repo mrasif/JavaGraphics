@@ -5,10 +5,10 @@ class Sample extends JFrame {
 	Sample(){
 		setTitle("Sample Window");
 		setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
-        setAlwaysOnTop(false);
-        setSize(500,400);
-        setResizable(false);
-        Dimension dim = Toolkit.getDefaultToolkit().getScreenSize();
+		setAlwaysOnTop(false);
+		setSize(500,400);
+		setResizable(false);
+		Dimension dim = Toolkit.getDefaultToolkit().getScreenSize();
 		setLocation(dim.width/2-getSize().width/2, dim.height/2-getSize().height/2);
 	}
 	public static void main(String[] args) {
