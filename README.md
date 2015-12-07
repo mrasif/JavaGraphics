@@ -1,2 +1,3 @@
 # JavaGraphics
-Draw canvas using Java (GUI).
+Graphics/Canvas using Java (GUI).
+
