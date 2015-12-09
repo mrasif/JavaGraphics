@@ -12,6 +12,6 @@ Graphics/Canvas using Java (GUI).
 
 ## Compilation & Execute Process:
   1. For compile :  
-     C:\>javac Test.java
+     ```C:\>javac Test.java```
   2. For execute:  
-     C:\>java Test
+     ```C:\>java Test```
