@@ -1,0 +1,11 @@
+{
+  "name": "Funbok",
+  "version": "1.0.0",
+  "description": "Facebook funny app usable without facebook authentication.",
+  "dependencies": {
+  	"jdk":"letest"
+  	},
+  "author": "Asif Mohammad Mollah",
+  "organization": "Geek Of Codes",
+  "package-url": "https://github.com/GeekOfCodes/JavaGraphics.git",
+}
